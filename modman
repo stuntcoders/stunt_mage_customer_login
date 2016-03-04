@@ -1,0 +1,7 @@
+app/code/local/Stuntcoders/*                                           app/code/local/Stuntcoders
+
+app/design/frontend/base/default/template/stuntcoders/*                app/design/frontend/base/default/template/stuntcoders/
+
+app/design/frontend/base/default/layout/stuntcoders/customerlogin.xml  app/design/frontend/base/default/layout/stuntcoders/customerlogin.xml
+
+app/etc/modules/Stuntcoders_CustomerLogin.xml                          app/etc/modules/Stuntcoders_CustomerLogin.xml
