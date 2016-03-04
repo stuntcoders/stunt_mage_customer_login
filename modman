@@ -5,3 +5,5 @@ app/design/frontend/base/default/template/stuntcoders/*                app/desig
 app/design/frontend/base/default/layout/stuntcoders/customerlogin.xml  app/design/frontend/base/default/layout/stuntcoders/customerlogin.xml
 
 app/etc/modules/Stuntcoders_CustomerLogin.xml                          app/etc/modules/Stuntcoders_CustomerLogin.xml
+
+lib/OAuth2                                                             lib/OAuth2
