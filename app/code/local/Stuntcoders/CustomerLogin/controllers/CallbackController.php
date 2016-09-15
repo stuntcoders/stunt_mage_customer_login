@@ -56,7 +56,7 @@ class Stuntcoders_CustomerLogin_CallbackController extends Mage_Core_Controller_
         if (empty($email) || empty($firstName) || empty($lastName)) {
             Mage::getSingleton('core/session')
                 ->addError($this->__('Login with Facebook failed. Missing some user information.'));
-            return $this->_redirect('customer/accunt/login');
+            return $this->_redirect('customer/account/login');
         }
 
         Mage::helper('stuntcoders_customerlogin')->authenticateCustomer(
